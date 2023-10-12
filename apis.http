@@ -1,0 +1,30 @@
+@url = https://139xnqy46l.execute-api.ap-south-1.amazonaws.com/prod
+
+GET {{url}}/employees
+###
+
+
+GET {{url}}/seniorEmployees?experience=25
+###
+
+GET {{url}}/architects
+###
+
+POST {{url}}/architects
+content-type: application/json
+
+ {
+    "name":"new Test-2",
+    "experience":"50"
+ }
+###
+
+
+POST {{url}}/seniorEmployees
+content-type: application/json
+
+ { 
+    "name":"This is new test",
+    "experience":"25"
+ }
+###

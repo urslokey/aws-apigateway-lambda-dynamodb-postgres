@@ -1,0 +1,4 @@
+npm install typeorm --save
+npm install pg --save
+npm i reflect-metadata
+npm i -D esbuild
