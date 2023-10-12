@@ -1,6 +1,6 @@
 # Welcome to your CDK TypeScript project
 
-This project developed by using sql(Postgres) & nosql(Dynamodb) databases.
+This project developed by using sql(**Postgres**) & nosql(**Dynamodb**) databases.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
