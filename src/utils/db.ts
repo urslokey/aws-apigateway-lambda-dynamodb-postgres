@@ -7,7 +7,7 @@ export const AppDataSource = new DataSource({
     host: "my-db-instance.cnwbijs7gqcp.ap-south-1.rds.amazonaws.com",
     port: 5432,
     username: "postgres",
-    password: "lokeY2094",
+    password: "your_db_password",
     database: "development",
     synchronize: true,
     logging: false,
