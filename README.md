@@ -4,6 +4,15 @@ This project developed by using sql(**Postgres**) & nosql(**Dynamodb**) database
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+
+## AWS Services
+
+- CDK Typescript
+- API Gateway
+- Lambda
+- RDS Postgresql
+- Dynamo db
+
 ## Useful commands
 
 - `npm run build` compile typescript to js
