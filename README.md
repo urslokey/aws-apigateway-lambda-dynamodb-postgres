@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Welcome to your AWS CDK TypeScript project
 
 This project developed by using sql(**Postgres**) & nosql(**Dynamodb**) databases.
 
